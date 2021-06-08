@@ -1,4 +1,4 @@
-objectid,filename,youtubeid,title,format,description,creator,date,subject,location,longitude,latitude,language
+objectid,filename,youtubeid,title,format,description,creator,date,subject,location,latitude,longitude,language
 cat001,cat001.jpg,,White Cat,image/jpg,White cat with a ball,Creator A,2010,Cat; White,"Clinton, NY",43.0484,75.3785,
 cat002,cat002.jpg,,Orange Cat,image/jpg,Orange cat looking content,Creator A,2012,Cat; Orange,"Clinton, NY",43.0484,75.3785,
 cat003,cat003.jpeg,,Tabby Cat,image/jpg,Tabby cat looking into the camera,Creator B,2013,Cat;Tabby,"Paris, France",48.8566,2.3522,
