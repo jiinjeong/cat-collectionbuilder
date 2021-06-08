@@ -25,15 +25,15 @@ title: Cat-CollectionBuilder
 tagline: Cat images and videos
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Uses CollectionBuilder for cat metadata"
+description: "Uses CollectionBuilder for cat metadata website"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: NachoMom
+author: jiinjeong
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: cat-demo 
+metadata: cat-metadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
