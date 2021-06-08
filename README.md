@@ -1,6 +1,6 @@
 # cat-collectionbuilder
 
-Uses Collection Builder to generate a cat-themed metadata [site] (https://jiinjeong.github.io/cat-collectionbuilder/).
+Uses [Collection Builder](https://collectionbuilder.github.io) to generate a cat-themed metadata [site](https://jiinjeong.github.io/cat-collectionbuilder/).
 
 ## License
 
