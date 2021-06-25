@@ -1,7 +1,7 @@
 # cat-collectionbuilder
 
 Uses [Collection Builder](https://collectionbuilder.github.io) to generate a cat-themed metadata [website](https://jiinjeong.github.io/cat-collectionbuilder/).
-A more serious example is the Hamilton Off-Campus Study Metadata [website](https://hamilton-ocs.github.io/video-archive/). Github [Repo](https://github.com/Hamilton-OCS/video-archive).
+A more serious example is the Hamilton College Off-Campus Study Video Archive Project ([Website](https://hamilton-ocs.github.io/video-archive/), [GitHub Repo](https://github.com/Hamilton-OCS/video-archive).
 
 ## License
 
